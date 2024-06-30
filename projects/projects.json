@@ -1,0 +1,32 @@
+[
+  
+  {
+    "name": "E-Commerce Website",
+    "desc": "E-Commerce Website by HTML CSS",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://arnabwebsite-3mrlegrv4-arnab-goswamis-projects.vercel.app/",
+      "code": "https://github.com/arnabgos629/E-com-Website.git"
+    }
+  },
+  {
+    "name": "Amazon Clone Website",
+    "desc": "Amazon Shopping Website clone by HTML, CSS",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://amazonbyarnab-bksviah02-arnab-goswamis-projects.vercel.app/",
+      "code": "https://github.com/arnabgos629/Amazon-Clonee.git"
+    }
+  },
+  {
+    "name": "Spotify App",
+    "desc": "Spotify App Clone by HTML CSS JAVASCRIPT",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://arnabspotify.vercel.app/",
+      "code": "https://github.com/arnabgos629/Spotify-App.git"
+    }
+  }]
